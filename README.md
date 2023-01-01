@@ -12,5 +12,3 @@ The cleaned data was then used to create a dashboard using PowerBI. The dashboar
 
 <h3>Conclusion</h3>
 This project demonstrates the process of collecting, cleaning, and visualizing data for the ICC Men's T20 World Cup. The insights and understanding gained from the data analysis can be used to inform future strategies and decisions related to the tournament.
-
-Match results --> https://stats.espncricinfo.com/ci/engine/records/team/match_results.html?id=2022%2F23;trophy=89;type=season
