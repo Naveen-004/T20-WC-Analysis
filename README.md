@@ -6,6 +6,9 @@ The data for this project was scraped from <a href=https://stats.espncricinfo.co
 
 <h3>Data Cleaning</h3>
 The scraped data was then cleaned and processed using the Pandas and NumPy libraries. This involved tasks such as handling missing values, removing unnecessary columns, and formatting the data in a suitable format for analysis. The cleaned data was then imported into PowerBI using Power Query, and a data model was created to facilitate the analysis and visualization of the data.
+<p></p>
+I uploaded the processed data to Kaggle.<br>
+link - <a href=https://www.kaggle.com/datasets/naveen9192/icc-mens-t20-world-cup-data>Naveen's Kaggle dataset</a>
 
 <h3>Data Visualization</h3>
 Using the data model and visualizations in PowerBI, the project created various charts and graphs to help understand the performance of the teams and players over the years. These visualizations included bar charts, line graphs, and scatter plots.
