@@ -5,7 +5,7 @@ This project is all about data analysis on the ICC Men's T20 World Cup. The goal
 The data for this project was scraped from <a href=https://stats.espncricinfo.com/ci/engine/records/team/match_results.html?id=2022%2F23;trophy=89;type=season>espncricinfo</a> using the Beautiful Soup library. The data includes details about the matches played, the teams and players involved, as well as various performance statistics.
 
 <h3>Data Cleaning</h3>
-The scraped data was then cleaned and processed using the Pandas and NumPy libraries. This involved tasks such as handling missing values, removing unnecessary columns, and formatting the data in a suitable format for analysis. The cleaned data was then imported into PowerBI using Power Query, and a data model was created to facilitate the analysis and visualization of the data.
+The scraped data was then cleaned and processed using the Pandas and NumPy libraries. This involved tasks such as handling missing values, removing unnecessary columns, data creation (batting_position, match_id, etc..,) and formatting the data in a suitable format for analysis. The cleaned data was then imported into PowerBI using Power Query, and a data model was created to facilitate the analysis and visualization of the data.
 <p></p>
 I uploaded the processed data to Kaggle.<br>
 link - <a href=https://www.kaggle.com/datasets/naveen9192/icc-mens-t20-world-cup-data>Naveen's Kaggle dataset</a>
